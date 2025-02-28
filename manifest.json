@@ -1,0 +1,15 @@
+{
+"name": "Scratch X" ,
+"version":"1.0",
+"description":"An extension to improve anyone's scratch (scratch.mit.edu) experience and take it to the next level",
+"permissions":[
+    "cookies",
+    "webRequest",
+    "webRequestBlocking",
+    "declarativeNetRequestWithHostAccess",
+    "storage",
+    "contextMenus",
+    "alarms",
+    "scripting"
+  ]    
+}
